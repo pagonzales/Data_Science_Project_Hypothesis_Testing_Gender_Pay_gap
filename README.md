@@ -1,4 +1,4 @@
-# Hypothesis testing of a pay gap in a Spark Fortress Inc.
+# Pay Gap Analysis in a Spark Fortress Inc.
 ## Project Objective
 This Data Science project aims to determine whether a pay gap exists in Spark Fortress Company based on gender and ethnicity, using hypothesis testing.
 
