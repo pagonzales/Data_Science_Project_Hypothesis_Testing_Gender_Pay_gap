@@ -1,4 +1,4 @@
-# Spark Fortress Hypothesis testing regarding gender pay gap
+# Hypothesis testing of a gender pay gap in a certain company
 ## Project Objective
 
 ## Data used
